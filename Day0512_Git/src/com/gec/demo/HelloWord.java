@@ -28,5 +28,9 @@ public class HelloWord {
         System.out.println("--------------------------------");
 
         addUser();
+
+        System.out.println("----------------------------------------");
+
+        System.out.println("刮痧李白,刮痧比较特别点...");
     }
 }
